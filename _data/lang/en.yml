@@ -132,7 +132,7 @@ home:
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
   top_header_line1: "Welcome To"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand Theme"
+  top_header_line2: "$site_brand GitHub page"
 
 # for archives layout
 archives:
@@ -144,7 +144,7 @@ archives:
 about:
   title: About
   button_name: About
-  sub_title: "Awesome jekyll theme"
+  sub_title: "Im a apasionate developer"
   email_title: email
 
 # for links layout
